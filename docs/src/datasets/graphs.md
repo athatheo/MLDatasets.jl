@@ -9,18 +9,15 @@ Pages = ["graphs.md"]
 ## Documentation
 
 ```@docs
+MLDatasets.Graph
+```
+
+```@docs
 CiteSeer
-CiteSeer.dataset
 Cora
-Cora.dataset
+KarateClub
 OGBDataset
 PolBlogs
-PolBlogs.edge_index
-PolBlogs.labels
 PubMed
-PubMed.dataset
 TUDataset
-KarateClub
-KarateClub.edge_index
-KarateClub.labels
 ```
